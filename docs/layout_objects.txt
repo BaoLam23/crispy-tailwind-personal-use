@@ -105,7 +105,7 @@ Fieldset
 
 Wraps fields in a ``<fieldset>``. The first parameter is the legend for the
 fieldset. By default the class for the legend is
-``block text-gray-700 font-bold mb-2``. Below is an example layout and the
+``block text-content font-bold mb-2``. Below is an example layout and the
 default rendering::
 
   Fieldset("Text for the legend", "is_company", "email",)
